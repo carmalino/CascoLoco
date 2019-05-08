@@ -1,0 +1,3 @@
+Para ejecutar remitirse al documento de entrega en la seccion 
+
+****Ejecutar el aplicativo App CascoLoco.jar****
