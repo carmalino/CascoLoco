@@ -1,0 +1,5 @@
+doble click JavaApplication2.jar
+
+usuario:    Admin
+
+contraseña: 123456
